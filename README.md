@@ -2,11 +2,11 @@
 
 <br/>
 
-# ⚡ Project Levi
+# Project Levi
 
-### *Your AI-powered career co-pilot.*
+### Your AI-powered career co-pilot.
 
-**[🌐 projectlevi.co.uk](https://projectlevi.co.uk)** &nbsp;·&nbsp; **[📧 meetprojectlevi@gmail.com](mailto:meetprojectlevi@gmail.com)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/company/project-levi)**
+**[🌐 projectlevi.co.uk](https://projectlevi.co.uk)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/company/project-levi)**
 
 <br/>
 
@@ -22,11 +22,9 @@
 
 ## What is Project Levi?
 
-University students spend years building skills — but most don't know which skills actually matter for the roles they want.
+Most people don't know what the market demands. Cut through the noise. We'll show you the skills employers actually want. <br/>
 
-**Project Levi** bridges that gap.
-
-Upload your CV, tell us your target role, and Levi's AI engine analyses your existing skills against real-world employer expectations. In seconds, you receive a personalised, phase-by-phase learning roadmap — curated resources included — so you know *exactly* what to learn and in what order.
+Upload your CV, tell us your target role, and Levi's AI engine analyses your existing skills against real-world employer expectations. In seconds, you receive a personalised, phase-by-phase learning roadmap with curated resources. So you know **exactly** what to learn and in what order.
 
 No noise. No generic advice. Just a precise path from where you are to where you want to be.
 
@@ -35,9 +33,9 @@ No noise. No generic advice. Just a precise path from where you are to where you
 ## How it Works
 
 ```
-📄 Upload CV  →  🔒 PII Redacted (Google DLP)  →  🧠 AI Skill Extraction (Gemini)
+📄 Upload your CV  →  🔒 Google DLP sanitises personal info  →  🧠 Levi extracts skills
       ↓
-🎯 Target Role Selected  →  📊 Gap Analysis  →  🗺️ Personalised Roadmap Generated
+🎯 Select your target role  →  📊 Gap Analysis  →  🗺️ Personalised Roadmap Generated
       ↓
 📚 Curated Learning Resources  →  ✅ Progress Tracking  →  🚀 Career Ready
 ```
@@ -55,7 +53,7 @@ No noise. No generic advice. Just a precise path from where you are to where you
 | **Authentication** | Supabase Auth (Google OAuth & GitHub OAuth) |
 | **Database** | PostgreSQL via Supabase + pgvector for semantic search |
 | **Security** | Cloudflare Turnstile (bot protection), JWT auth, CORS hardening |
-| **Payments** | Stripe (premium tier — coming soon) |
+| **Payments** | Stripe (premium tier — coming soon!) |
 | **Job Market Data** | Adzuna API |
 | **Learning Resources** | YouTube Data API + Google Custom Search API |
 
@@ -100,10 +98,8 @@ Levi is currently in **open beta**. Core features are fully functional and produ
 |---|---|
 | Premium roadmaps (full unlock, more phases) | 🔜 Coming Soon |
 | Email notifications for roadmap milestones | 🔜 Coming Soon |
-| Supabase Custom Domain (auth.projectlevi.co.uk) | 🔜 Planned |
-| Mobile-responsive enhancements | 🔜 Planned |
+| Mobile-responsive enhancements | 🔜 Coming Soon |
 | Team / cohort roadmaps for universities | 💡 Exploring |
-| Levi Chrome Extension | 💡 Exploring |
 
 ---
 
@@ -111,10 +107,10 @@ Levi is currently in **open beta**. Core features are fully functional and produ
 
 Levi is built with privacy as a first principle:
 
-- 🔒 **CVs are never stored.** All uploaded files are processed in memory and discarded immediately after skill extraction.
-- 🛡️ **PII is redacted** by Google Cloud DLP before any CV content reaches the AI model.
-- 🍪 **No tracking cookies.** Levi uses strictly necessary session tokens only — no marketing pixels, no analytics fingerprinting.
-- 🤖 **Bot protection** on all AI endpoints via Cloudflare Turnstile.
+- **CVs are never stored.** All uploaded files are processed in memory and discarded immediately after skill extraction.
+- **PII is redacted** by Google Cloud DLP before any CV content reaches the AI model.
+- **No tracking cookies.** Levi uses strictly necessary session tokens only — no marketing pixels, no analytics fingerprinting.
+- **Bot protection** on all AI endpoints via Cloudflare Turnstile.
 
 Full details: [Privacy Policy](https://projectlevi.co.uk/privacy-policy)
 
@@ -132,7 +128,7 @@ Full details: [Privacy Policy](https://projectlevi.co.uk/privacy-policy)
 
 <div align="center">
 
-*Built for students. Powered by AI. Designed to get you hired.*
+*Stop guessing.Start building.*
 
 <br/>
 

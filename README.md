@@ -4,7 +4,7 @@
 
 # Project Levi
 
-### Your AI-powered career co-pilot.
+### Your AI-powered career co-pilot
 
 **[🌐 projectlevi.co.uk](https://projectlevi.co.uk)** &nbsp;·&nbsp; **[💼 LinkedIn](https://www.linkedin.com/company/project-levi)**
 
@@ -12,7 +12,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Live%20in%20Production-6c47ff?style=for-the-badge&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Web-6c47ff?style=for-the-badge)
-![AI](https://img.shields.io/badge/Powered%20by-Gemini%20AI-6c47ff?style=for-the-badge)
+![AI](https://img.shields.io/badge/Powered%20by-Gemini%20-6c47ff?style=for-the-badge)
 
 <br/>
 
@@ -128,7 +128,7 @@ Full details: [Privacy Policy](https://projectlevi.co.uk/privacy-policy)
 
 <div align="center">
 
-*Stop guessing.Start building.*
+*Stop guessing. Start building.*
 
 <br/>
 
